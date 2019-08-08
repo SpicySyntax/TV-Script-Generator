@@ -1,2 +1,3 @@
 # TV-Script-Generator
-Jupyter Notebook that generates Seinfield Scripts using LSTM (Long-short term memory) Neural Networks based off a dataset of existing Seinfield scripts.
+
+This project attempts to generate Seinfield Scripts using [Long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory) Recurrent Neural Networks that have been trained using a dataset of existing Seinfield scripts
